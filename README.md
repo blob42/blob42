@@ -6,16 +6,16 @@
 - Big supporter of self-hosting and decentralization.
 - Enjoy messing around with electronics and low-tech stuff.
 
-## Current Work
+## Work
 
-Currently offering consulting services in AI integration, specifically LLMs and RAG. 
+For consulting inquiries send in inquiry to contact at blob42 dot xyz. 
 
-I'm also working on [Instrukt](https://github.com/blob42/instrukt), an integrated AI environment in the terminal.
+Currently offering consulting services in Backend, Dev and AI Operations in Rust and Go.
 
 ## Background
 
 - Started programming as a teen and learned the UNIX way back in the day on a distro called Mandriva🐧.
-- 15 years  XP in software dev and architecture
+- 15 years XP in software dev and architecture
 - Did some work in UX and UI design. 
 
 
@@ -33,8 +33,6 @@ I'm also working on [Instrukt](https://github.com/blob42/instrukt), an integrate
 - Arch by the way
 
 # Patreon
-
-You can support my work on Instrukt with [Patreon](https://www.patreon.com/Instrukt).
 
 ![btc_blob42_gh](https://github.com/blob42/blob42/assets/210457/f02803ed-b17a-4b22-8d6a-aa47da1a2e58)
 
