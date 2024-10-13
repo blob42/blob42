@@ -32,9 +32,7 @@ Currently offering consulting services in Backend, Dev and AI Operations in Rust
 - Golang, Python, Rust.
 - Arch by the way
 
-![qrcode](https://github.com/user-attachments/assets/ef220af7-c603-4913-a052-3efc90e97a97)
-
-Bitcoin: bc1q9dy8xjwxht76n4syj8gggzjhs8j5xnh4mumszj
+BTC: bc1q9dy8xjwxht76n4syj8gggzjhs8j5xnh4mumszj
 
 <!--
 **blob42/blob42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
