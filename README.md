@@ -2,7 +2,7 @@
 ## TL;DR
 
 - Software dev with a passion for open-source and free software.
-- Currently specialized in AI/LLM Ops and systems / backend programming.
+- Currently specialized in AI/LLM Ops and Systems/Backend programming.
 - Big supporter of self-hosting and decentralization.
 - Enjoy messing around with electronics and low-tech stuff.
 
