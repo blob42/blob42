@@ -14,7 +14,7 @@ Currently offering consulting services in Backend, Dev and AI Operations in Rust
 
 ## Background
 
-- Started programming as a teen and learned the UNIX way back in the day on a distro called Mandriva🐧.
+- Started programming my teens and learned the UNIX way back in the day on a distro called Mandriva🐧.
 - 15 years XP in software dev and architecture
 - Did some work in UX and UI design. 
 
