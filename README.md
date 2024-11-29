@@ -10,7 +10,7 @@
 
 For consulting inquiries send an email to contact at blob42 dot xyz. 
 
-Currently offering consulting services in Backend, Dev and AI Operations in Rust and Go.
+Currently offering consulting services in Backend, Dev and AI Operations in Rust, Go and Python.
 
 ## Background
 
