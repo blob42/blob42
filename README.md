@@ -30,7 +30,7 @@ Currently offering consulting services in Backend, Dev and AI Operations in Rust
 
 - Neovim 
 - Golang, Python, Rust.
-- Arch by the way
+- I use Arch by the way
 
 BTC: bc1q9dy8xjwxht76n4syj8gggzjhs8j5xnh4mumszj
 
