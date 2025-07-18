@@ -1,27 +1,27 @@
 
 ## TL;DR
 
-- Software dev with a passion for open-source and free software.
-- Currently specialized in AI/LLM Ops and Systems/Backend programming.
-- Big supporter of self-hosting and decentralization.
-- Enjoy messing around with electronics and low-tech stuff.
+- Software engineer with a passion for privacy and free software.
+- Currently focused in AI/LLM Ops and Systems/Backend programming.
+- Big proponent of self-hosting and decentralization.
+- Enjoys tinketing around with electronics, 3d printing and low-tech.
 
 ## Work
 
 For consulting inquiries send an email to contact at blob42 dot xyz. 
 
-Currently offering consulting services in Backend, Dev and AI Operations in Rust, Go and Python.
+Currently offering consulting services in Backend, Dev and AI Operations in Rust, Go or Python.
 
 ## Background
 
 - Started programming my teens and learned the UNIX way back in the day on a distro called Mandriva🐧.
-- 15 years XP in software dev and architecture
-- Did some work in UX and UI design. 
+- 15 years XP in software development and architecture.
+- Earned some skills along the way in UX and UI design.  
 
 
 ## Expertise & Interests
 
-- **Systems Programming:** Deep knowledge and experience in building software from bare metal to user interface.
+- **Systems Programming:** Deep knowledge and experience in building software from bare metal to the user interface.
 - **AI / Deep Learning:** I have a modest interest in using AI and LLMs for productivity tools. A few years ago I finished a nanodegree in deep learning and contributed to projects like [LangChain](https://github.com/search?q=type%3Apr+author%3Ablob42+repo%3Ahwchase17%2Flangchain&type=Issues&l=&l=) and [PySyft](https://github.com/search?q=repo%3AOpenMined%2FPySyft+author%3Ablob42&type=pullrequests).
 - **SysAdmin and Networking**: Got my fair share systems administration and networking in my early years before DevOps became a buzzword.
 - **Bitcoin/Lightning:** I have a good knowledge and expertise with Bitcoin/Lightning technology stack aka. the internet of money.
@@ -29,8 +29,8 @@ Currently offering consulting services in Backend, Dev and AI Operations in Rust
 ## Daily Driver 
 
 - Neovim 
-- Golang, Python, Rust.
-- I use Arch by the way
+- Golang, Rust, Python, C
+- Arch by the way
 
 BTC: bc1q9dy8xjwxht76n4syj8gggzjhs8j5xnh4mumszj
 
