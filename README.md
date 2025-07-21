@@ -2,9 +2,9 @@
 ## TL;DR
 
 - Software engineer with a passion for privacy and free software.
-- Currently focused in AI/LLM Ops and Systems/Backend programming.
+- Penchant for systems programming, networking, architecture and operations.
 - Big proponent of self-hosting and decentralization.
-- Enjoys tinketing around with electronics, 3d printing and low-tech.
+- Enjoys tinketing with electronics, 3d printing and low-tech.
 
 ## Work
 
@@ -22,7 +22,7 @@ Currently offering consulting services in Backend, Dev and AI Operations in Rust
 ## Expertise & Interests
 
 - **Systems Programming:** Deep knowledge and experience in building software from bare metal to the user interface.
-- **AI / Deep Learning:** I have a modest interest in using AI and LLMs for productivity tools. A few years ago I finished a nanodegree in deep learning and contributed to projects like [LangChain](https://github.com/search?q=type%3Apr+author%3Ablob42+repo%3Ahwchase17%2Flangchain&type=Issues&l=&l=) and [PySyft](https://github.com/search?q=repo%3AOpenMined%2FPySyft+author%3Ablob42&type=pullrequests).
+- **LLMs / Deep Learning:** I have a modest interest in using ML and LLMs for productivity tools. A few years ago I finished a nanodegree in deep learning and contributed to projects like [LangChain](https://github.com/search?q=type%3Apr+author%3Ablob42+repo%3Ahwchase17%2Flangchain&type=Issues&l=&l=) and [PySyft](https://github.com/search?q=repo%3AOpenMined%2FPySyft+author%3Ablob42&type=pullrequests).
 - **SysAdmin and Networking**: Got my fair share systems administration and networking in my early years before DevOps became a buzzword.
 - **Bitcoin/Lightning:** I have a good knowledge and expertise with Bitcoin/Lightning technology stack aka. the internet of money.
 
