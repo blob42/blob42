@@ -32,6 +32,8 @@ Currently offering consulting services in Backend, Dev and AI Operations in Rust
 - Golang, Rust, Python, C
 - Arch by the way
 
+**I speak**: english, français, عربية y español
+
 BTC: bc1q9dy8xjwxht76n4syj8gggzjhs8j5xnh4mumszj
 
 <!--
