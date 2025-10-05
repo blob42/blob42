@@ -22,7 +22,7 @@ Currently offering consulting services in Backend, Dev and AI Operations in Rust
 ## Expertise & Interests
 
 - **Systems Programming:** Deep knowledge and experience in building software from bare metal to the user interface.
-- **LLMs / Deep Learning:** I have a modest interest in using ML and LLMs for productivity tools. A few years ago I finished a nanodegree in deep learning and contributed to projects like [LangChain](https://github.com/search?q=repo%3Alangchain-ai%2Flangchain+blob42&type=commits&p=1) (Integrated SearxNG search tool) and [PySyft](https://github.com/search?q=repo%3AOpenMined%2FPySyft+author%3Ablob42&type=pullrequests).
+- **LLMs / Deep Learning:** I have a modest interest in using ML and LLMs for productivity tools. A few years ago I finished a nanodegree in deep learning and contributed to projects like [LangChain](https://github.com/search?q=repo%3Alangchain-ai%2Flangchain+blob42&type=commits&p=1) (Integrated SearxNG search tool), [PySyft](https://github.com/search?q=repo%3AOpenMined%2FPySyft+author%3Ablob42&type=pullrequests), [LocalAI](https://github.com/search?q=repo%3Amudler%2FLocalAI+author%3Ablob42&type=pullrequests) and [StableDiffusion](https://github.com/search?q=repo%3Alllyasviel%2Fstable-diffusion-webui-forge+author%3Ablob42&type=pullrequests) (Align Your Steps scheduler).
 - **SysAdmin and Networking**: Got initiated in systems administration and networking in my early years before DevOps was a word.
 - **Bitcoin/Lightning:** I have a good knowledge and expertise with Bitcoin/Lightning technology stack aka. the internet of money.
 
